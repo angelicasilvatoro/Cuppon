@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg-green {
+    background-color: #28a745;
+}
+.cuppon {
+    width: 114.667px; /*conversión de pt a px*/
+}
+.font-card {
+    color: #707070;
+    font-size: 16px;
+}
+.font-card-address {
+    color: #707070;
+    font-size: 13px;
+}
+.green {
+    color: #28a745;
+}
+.text-footer {
+    color: #707070;
+}
